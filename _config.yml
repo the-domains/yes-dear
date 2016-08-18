@@ -1,5 +1,6 @@
-layout_spectrum: 0.9601675115991384
 typography_spectrum: 0.7355640693567693
+content_rating:
+  adult: true
 color:
   brandStrength: 0.22933956421911716
   lightness: 0.9202389419078827
@@ -11,4 +12,7 @@ color:
     - '#ACF0F2'
     - '#F3FFE2'
     - '#EB7F00'
+layout_spectrum: 0.9601675115991384
+author:
+  name: S******* H*****
 name: Yes Dear
